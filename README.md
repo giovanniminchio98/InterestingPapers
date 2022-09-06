@@ -1,4 +1,4 @@
-<h1>Interesting papers I found online:</h1>
+<h1>Interesting papers/articles I found online:</h1>
 
 <h3>6 September 2022</h3>
 
